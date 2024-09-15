@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SergeyKovalev
-- 👀 I’m interested in IIoT digital twins and software architecture
-- 🌱 I’m always learning 
+- 👀 AI-first 
 
 <!---
 sergey-ko/sergey-ko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
